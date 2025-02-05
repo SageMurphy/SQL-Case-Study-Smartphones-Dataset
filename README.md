@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes a dataset of smartphone specifications. It involves data cleaning, 45 SQL queries, and insights into smartphone brands, models, features, and sales.
 
-![image](https://github.com/user-attachments/assets/f5c7bac6-177f-4fe0-b9e0-5fe1c701bb1d)
+![ss](https://github.com/user-attachments/assets/3488afa0-1944-4803-be20-f658080eb3ad)
 
 
 ## Features
