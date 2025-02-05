@@ -1,7 +1,10 @@
 # Smartphone Specs Case Study
 
 ## Project Overview
-This project analyzes a dataset of smartphone specifications. It involves data cleaning, SQL queries, and insights into smartphone brands, models, features, and sales.
+This project analyzes a dataset of smartphone specifications. It involves data cleaning, 45 SQL queries, and insights into smartphone brands, models, features, and sales.
+
+![image](https://github.com/user-attachments/assets/f5c7bac6-177f-4fe0-b9e0-5fe1c701bb1d)
+
 
 ## Features
 - Data cleaning and preprocessing using Pandas
